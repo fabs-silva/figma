@@ -1,0 +1,23 @@
+.disadvantages-list{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(3, 100%);
+    list-style: none;
+    width: 100%;
+    gap: 2rem;
+    overflow-y: scroll;
+    padding: 2rem;
+}
+
+.disadvantages-list li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.disadvantages-list img {
+    width: 400px;
+    margin-top: 1.5rem;
+}

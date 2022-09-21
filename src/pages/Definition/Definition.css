@@ -5,7 +5,7 @@
   margin-top: 2rem;
 }
 
-.definition-text h2{
+.definition-text h2 {
   font-size:  1.8rem;
   font-weight: 400;
   align-self: center;
@@ -14,4 +14,17 @@
 .definition-text cite {
   font-size: 1.35rem;
   align-self: flex-end;
+}
+
+.definition-text p{
+  font-family: 'Caveat', cursive;
+  color: rgb(255, 0, 0);
+  position: absolute;
+  font-size: 2.35rem;
+  top: 58%;
+  right: 20%;
+}
+
+.definition-text p span{
+  font-size: 3rem;
 }

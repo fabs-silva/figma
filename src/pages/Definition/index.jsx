@@ -13,6 +13,7 @@ export function Definition() {
 						"Editor gráfico de vetor e prototipagem de projetos de design"
 					</h2>
 					<cite>- Wikipedia</cite>
+					<p><span>⬑</span> Confiável???</p>
 				</blockquote>
 				<BottomButtons
 					previous="/"

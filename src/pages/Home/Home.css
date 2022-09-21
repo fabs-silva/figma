@@ -23,6 +23,7 @@
 .texts p {
   font-size: 1.3rem;
   font-style: italic;
+  opacity: 0.5;
 }
 
 .texts h2 {

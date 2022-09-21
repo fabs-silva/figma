@@ -1,0 +1,32 @@
+.what-i-need-list{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    width: 80%;
+}
+
+.what-i-need-list ul{
+    font-size: 1.5rem;
+    line-height: 160%;
+    width: 60%;
+}
+
+.what-i-need-list li {
+    margin-bottom: 1rem;
+}
+
+.what-i-need-list div{
+    display: flex;
+    align-items: center;
+}
+
+.what-i-need-list img {
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+    object-position: 25%;
+}
+
+.what-i-need-cite {
+    font-size: 1.25rem;
+}

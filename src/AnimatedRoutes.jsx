@@ -26,8 +26,8 @@ export function AnimatedRoutes() {
           <Route path="advantages" element={<Advantages />} />
           <Route path="disadvantages" element={<Disadvantages />} />
           <Route path="what-i-need" element={<WhatINeed />} />
-          <Route path="prototyping" element={<Prototyping />} />
           <Route path="show-me-the-code" element={<ShowMeTheCode />} />
+          <Route path="prototyping" element={<Prototyping />} />
           <Route path="end" element={<End />} />
         </Routes>
         </AnimatePresence>
