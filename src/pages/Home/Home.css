@@ -1,0 +1,30 @@
+.top-title{
+  display: flex;
+  gap: 3rem;
+  align-items: flex-end;
+}
+
+.top-title img {
+  width: 90px;
+  height: auto
+}
+
+.top-title h1 {
+  font-size: 6rem;
+}
+
+.texts{
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center;
+}
+
+.texts p {
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.texts h2 {
+  font-size: 2.2rem;
+}

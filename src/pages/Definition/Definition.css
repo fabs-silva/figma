@@ -1,0 +1,17 @@
+.definition-text{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.definition-text h2{
+  font-size:  1.8rem;
+  font-weight: 400;
+  align-self: center;
+}
+
+.definition-text cite {
+  font-size: 1.35rem;
+  align-self: flex-end;
+}

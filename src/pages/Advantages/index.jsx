@@ -8,7 +8,7 @@ export function Advantages() {
         <li>colaborativo em tempo real</li>
         <li>acesso via navegador</li>
         <li>autosave (desde que conectado à internet)</li>
-        <li>css dos elementos</li>
+        <li>código da parte visual dos elementos</li>
       </ul>
     </Container>
   );
